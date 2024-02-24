@@ -6,6 +6,9 @@ what i learn from python package
 
 # Tracking
 
+24 Januari 2024
+- re-organizing file from python-learn
+
 Januari 2024
 - selenium 4, venv, poetry
 - psutil
@@ -15,10 +18,15 @@ November - Desember 2023
 
 Oktober 2023
 - ichrome
- 
-Agustus - September 2023
--Tkinter, Pyside6
+- pyside6
+
+21 september 2023
+- ttkbootstrap
 
 # Resource
-- https://pythonbasics.org/#PyQt
+- https://pythonbasics.org/
 - https://pythonassets.com/posts/
+
+# bot detect site
+- https://bot.sannysoft.com/
+- https://bot.incolumitas.com/

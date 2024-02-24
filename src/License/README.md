@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/261638/how-do-i-protect-python-code-from-being-read-by-users
+https://stackoverflow.com/questions/599837/how-to-generate-and-validate-a-software-license-key/52019368#52019368
